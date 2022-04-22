@@ -8,5 +8,4 @@ by Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, and Andrew Gordo
 
 ## References for Code Base
 
-Stochastic weight averaging: [Pytorch repo](https://github.com/timgaripov/swa/); most of the base methods and model definitions are built off of this repo.
-Stochastic weight averaging gaussian: [Pytorch repo](https://github.com/wjmaddox/swa_gaussian).
+Stochastic weight averaging gaussian: [Pytorch repo](https://github.com/wjmaddox/swa_gaussian). 
