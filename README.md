@@ -1,4 +1,4 @@
-# A Simple Baseline for Bayesian Deep Learning
+# SWAG for Data Drift
 
 This repository contains a PyTorch implementation of Stochastic Weight Averaging-Gaussian (SWAG) from the paper
 
